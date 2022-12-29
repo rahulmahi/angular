@@ -1,0 +1,29 @@
+.parent{
+    display: flex;
+    line-height: 30px;
+}
+.box{
+    width: 200px;
+    margin-left: 40px;
+}
+.container{
+    border: 1px solid ;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px ;
+    height: 350px;
+    margin: 0 auto;
+}
+.btns{
+   text-align: center;
+   border-radius: 5px; 
+}
+#btn{
+    margin-left: 30vh;
+    margin-top: 30px;
+}
+.details{
+    font-size: 20px;
+    margin-top: 50px;
+    /* text-align: center; */
+}
